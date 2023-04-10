@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 589d62a1cfce3f345bb27b32cde39561, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  returnSpeed: 15
+  snapiness: 10
+  backFire: 0.5
+  aimReturnSpeed: 15
+  aimSnapiness: 10
+  aimBackFire: 0.05
+  recoilX: -10
+  recoilY: 10
+  recoilZ: 1
+  RecoilSnapiness: 6
+  RecoilReturnSpeed: 1
+  aimRecoilX: -5
+  aimRecoilY: 5
+  aimRecoilZ: 0.5
+  aimRecoilSnapiness: 6
+  aimRecoilReturnSpeed: 1
+  zoomInFOV: 50
+  zoomOutFOV: 60
+  rateOfFire: 1
+  damage: 15
+  range: 10
+  carryingCapacity: 30
+  clipCapacity: 2
+  ammoType: 1
